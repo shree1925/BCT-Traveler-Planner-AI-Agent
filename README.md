@@ -863,9 +863,6 @@ That's the actual lesson. Not *how do I call an LLM*, but *how do I build someth
 
 Attraction and hotel data from Kaggle · Weather by [Open-Meteo](https://open-meteo.com) · Places by [OpenStreetMap Nominatim](https://nominatim.openstreetmap.org) · Rates by [Frankfurter](https://frankfurter.app)
 <br>
-Every live API here is free and needs no key. Please respect Nominatim's rate limits — volunteers run it.
-<br>
-This README uses no remote images — every icon is a Unicode character, so it renders identically everywhere, offline, and behind any filter.
 
 </sub>
 </div>
