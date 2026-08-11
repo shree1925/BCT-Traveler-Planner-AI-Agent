@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2708_fe0f/512.webp" alt="✈️" width="46" height="46" align="absmiddle"> AI Travel Planner
+# ✈️ AI Travel Planner
 
 ### An agentic travel planner for India that refuses to make things up.
 
@@ -9,49 +9,63 @@
 
 <br>
 
-<img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="42" alt="Streamlit"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" height="42" alt="pandas"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="42" alt="Kaggle"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openstreetmap/7EBC6F" height="42" alt="OpenStreetMap"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="42" alt="VS Code"/>
+**Soumik Dey · Vinit Saw · Sraoshree Yadav · Sayan Sikder · Swapnil Basu**
 
-<br><br>
-
-**Bring your own brain — every one of these works today**
-
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="34" alt="Gemini"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/google/4285F4" height="34" alt="Gemma"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nvidia/76B900" height="34" alt="NVIDIA Nemotron"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/anthropic/D97757" height="34" alt="Claude"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openai/412991" height="34" alt="OpenAI"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/meta/0866FF" height="34" alt="Llama"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mistralai/FA520F" height="34" alt="Mistral"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="34" alt="Hugging Face"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="34" alt="Ollama"/>
+<sub>BCT Agentic AI programme</sub>
 
 <br>
 
-![Gemini 3.6](https://img.shields.io/badge/Gemini_3.6_Flash-8E75B2?style=flat-square)
-![Gemma 4](https://img.shields.io/badge/Gemma_4-4285F4?style=flat-square)
-![Nemotron 3](https://img.shields.io/badge/Nemotron_3-76B900?style=flat-square)
+![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![ReportLab](https://img.shields.io/badge/ReportLab-B22222?style=for-the-badge)
+
+**🐍 Python 3.11+ · 🎈 Streamlit · 🐼 pandas · 📄 ReportLab**
+
+**`5` dependencies · `11` tools · `0` frameworks · `0` vector databases**
+
+<br>
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" alt="" width="40" height="40">
+
+### 🧠 Bring your own brain
+
+![Gemini](https://img.shields.io/badge/Gemini_3.6-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma_4-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+![Nemotron](https://img.shields.io/badge/NVIDIA_Nemotron-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek_V4-4D6BFE?style=flat-square)
+![Llama](https://img.shields.io/badge/Llama-0866FF?style=flat-square&logo=meta&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen_3-615CED?style=flat-square)
+![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=flat-square&logo=mistralai&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-400+_models-1F2937?style=flat-square)
 
+Every one of these works today, swappable from a dropdown:
+
+| ✦ Google AI Studio — *one key* | ◆ OpenRouter — *one key, 400+ models* |
+|:--|:--|
+| **Gemini 3.6 Flash** | **Claude** · **GPT** · **DeepSeek V4** |
+| **Gemini 3.5 Flash** | **NVIDIA Nemotron 3** |
+| **Gemini 3.1 Flash-Lite** | **Llama** · **Qwen** · **Mistral** |
+| **Gemma 4** | *…and everything else they carry* |
+
 <br>
 
-**Live data, free forever, no keys**
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" alt="" width="40" height="40">
 
-![Open-Meteo](https://img.shields.io/badge/Open--Meteo-weather-0EA5E9?style=for-the-badge)
-![Nominatim](https://img.shields.io/badge/Nominatim-places-7EBC6F?style=for-the-badge)
-![Frankfurter](https://img.shields.io/badge/Frankfurter-currency-F59E0B?style=for-the-badge)
+### 🌍 Live data — free forever, no keys
+
+**☀️ Open-Meteo** weather  ·  **📍 Nominatim** places  ·  **💱 Frankfurter** currency
+
+<br>
 
 </div>
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ac/512.webp" alt="🎬" width="30" height="30" align="absmiddle"> So what does it actually do?
+## 🎬 So what does it actually do?
 
 You type *"plan me five days in Jaipur, mid-range, two of us."*
 
@@ -67,7 +81,7 @@ That refusal is the product. Everything else is plumbing.
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.webp" alt="🤔" width="30" height="30" align="absmiddle"> Why bother building this?
+## 🤔 Why bother building this?
 
 Most "AI travel planner" projects are one API call wearing a trenchcoat. A prompt goes to a model, prose comes back, and the model cheerfully invents hotel names, entrance fees, and a restaurant that closed in 2019. It looks impressive for exactly as long as nobody checks.
 
@@ -91,7 +105,7 @@ That's not a limitation. That's the syllabus.
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" alt="⚡" width="30" height="30" align="absmiddle"> Getting it running
+## ⚡ Getting it running
 
 Six steps. Ten minutes, most of which is Kaggle.
 
@@ -171,7 +185,7 @@ Five packages. Under a minute.
 streamlit run app.py
 ```
 
-Browser opens at `http://localhost:8501`. Paste an API key into the sidebar's **API keys** panel, hit **Test**, and you're planning trips. <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" alt="🎉" width="24" height="24" align="absmiddle">
+Browser opens at `http://localhost:8501`. Paste an API key into the sidebar's **API keys** panel, hit **Test**, and you're planning trips. 🎉
 
 <details>
 <summary><b>🔍 Worth doing first: check your data before you check your key</b></summary>
@@ -194,7 +208,7 @@ Also lists every model your keys can reach and round-trips the default one. Need
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f511/512.webp" alt="🔑" width="30" height="30" align="absmiddle"> Two keys. Both free. One is enough.
+## 🔑 Two keys. Both free. One is enough.
 
 | Key | What it unlocks | Get it |
 |:--|:--|:--|
@@ -212,7 +226,7 @@ Email needs **no key at all** on the default route — see below.
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e7/512.webp" alt="📧" width="30" height="30" align="absmiddle"> Emailing the itinerary — three routes, pick your pain level
+## 📧 Emailing the itinerary — three routes, pick your pain level
 
 There is one honest constraint here and it's worth stating plainly: **nothing can send
 email as you without proving you're allowed to.** That's not a design flaw, it's the only
@@ -229,7 +243,7 @@ The good news: the default route needs no proof at all, because *you* send it.
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f7e2/512.webp" alt="🟢" width="25" height="25" align="absmiddle"> Route 1 — Send it yourself (the default, zero setup)
+### 🟢 Route 1 — Send it yourself (the default, zero setup)
 
 Open the **📄 Export** tab. This is what you see immediately, no configuration needed:
 
@@ -254,7 +268,7 @@ Outlook, Yahoo and your desktop mail client are behind **Other mail apps**.
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" alt="⚡" width="25" height="25" align="absmiddle"> Route 2 — Resend (one key, genuinely easy)
+### ⚡ Route 2 — Resend (one key, genuinely easy)
 
 Want the **Send** button to just work, PDF attached, no dragging? This is the least
 painful way to get there.
@@ -272,7 +286,7 @@ That's it. One field, no 2-factor dance, no SMTP settings, no app passwords.
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ee/512.webp" alt="📮" width="25" height="25" align="absmiddle"> Route 3 — Gmail SMTP (most setup, best result)
+### 📮 Route 3 — Gmail SMTP (most setup, best result)
 
 Sends from your real Gmail address, permanently, to anyone. Worth doing if this app
 becomes something you actually use. Here's the part that confuses everyone:
@@ -347,7 +361,7 @@ Sometimes the first copy just goes wrong.
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f512/512.webp" alt="🔒" width="25" height="25" align="absmiddle"> Revoking access
+### 🔒 Revoking access
 
 **Resend:** [resend.com/api-keys](https://resend.com/api-keys) → delete the key.
 **Gmail:** [myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords) → 🗑️ next to the entry.
@@ -361,7 +375,7 @@ to disk. `.env` is gitignored. The realistic leak path is a screenshot, not the 
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9f9/512.webp" alt="🧹" width="30" height="30" align="absmiddle"> A word about "cleaned"
+## 🧹 A word about "cleaned"
 
 These datasets are good. They are not clean. Nobody's are. Here's the honest split between what the app absorbs for you and what's still your job.
 
@@ -391,65 +405,65 @@ These datasets are good. They are not clean. Nobody's are. Here's the honest spl
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d7_fe0f/512.webp" alt="🏗️" width="30" height="30" align="absmiddle"> How it actually works
+## 🏗️ How it actually works
 
 Four layers, and each one does exactly one job. Follow a single question through them and the whole system makes sense.
 
-```
-   YOU ─── "5 days in Jaipur, mid-range, 2 people"
-    │
-    ▼
-┌───────────────────────────────────────────────────────────────┐
-│  🖥️  PRESENTATION            app.py · ui/                      │
-│      Chat · Itinerary · Budget · Export · Dataset manager      │
-│      Owns nothing. Renders what the layers below produce.      │
-└───────────────────────────┬───────────────────────────────────┘
-                            │  neutral message list
-                            ▼
-┌───────────────────────────────────────────────────────────────┐
-│  🧠  ORCHESTRATION           agent/loop.py                      │
-│      for step in 1..6:                                         │
-│          reply = provider.chat(messages, tool_schemas)         │
-│          if not reply.tool_calls:  →  done, return the answer  │
-│          run each tool, append results, go round again         │
-│                                                                │
-│      Knows nothing about Gemini, or CSVs, or the weather.      │
-│      Just: ask, execute, feed back, repeat, stop.              │
-└──────────┬────────────────────────────────────┬───────────────┘
-           │                                    │
-           ▼                                    ▼
-┌────────────────────────────┐   ┌──────────────────────────────┐
-│  🔌  MODEL ACCESS           │   │  🛠️  CAPABILITY               │
-│      providers/            │   │      tools/ · registry.py     │
-│                            │   │                               │
-│  Google SDK ──┐            │   │  11 plain Python functions,   │
-│               ├─► Reply    │   │  each with a JSON schema the  │
-│  requests ────┘            │   │  model reads as documentation │
-│                            │   │                               │
-│  Two wire formats.         │   │  🗄️ INSIDE      🌍 OUTSIDE     │
-│  One neutral object.       │   │  your CSVs      live APIs     │
-│  400+ models behind it.    │   │  ─────────      ─────────     │
-│                            │   │  coverage       weather       │
-│  Gemini · Gemma            │   │  attractions    places        │
-│  Claude · GPT · DeepSeek   │   │  hotels         currency      │
-│  Llama · Qwen · Mistral    │   │  itineraries    email         │
-│  Nemotron · and the rest   │   │  + budget · plan · PDF        │
-└────────────────────────────┘   └───────────────┬───────────────┘
-                                                 │
-                                                 ▼
-                                 ┌───────────────────────────────┐
-                                 │  🗄️  KNOWLEDGE                 │
-                                 │      data_layer/               │
-                                 │                                │
-                                 │  discovery → which file is     │
-                                 │              which dataset?    │
-                                 │  schema    → which column is   │
-                                 │              which field?      │
-                                 │  retrieval → filter, then rank │
-                                 └───────────────────────────────┘
+```mermaid
+flowchart TD
+    U(["<b>You</b><br/>“5 days in Jaipur, mid-range, 2 people”"])
+
+    P["<b>PRESENTATION</b> · app.py + ui/<br/><br/>Chat · Itinerary · Budget · Export · Datasets<br/><i>Owns nothing. Renders what the layers below produce.</i>"]
+
+    O["<b>ORCHESTRATION</b> · agent/loop.py<br/><br/>for step in 1..6<br/>ask the model → run the tools it asked for → feed results back<br/><i>Knows nothing about Gemini, or CSVs, or the weather.</i>"]
+
+    M["<b>MODEL ACCESS</b> · providers/<br/><br/>Google SDK + requests → one neutral Reply<br/><br/>Gemini · Gemma · Claude · GPT<br/>DeepSeek · Llama · Qwen · Mistral · Nemotron"]
+
+    C["<b>CAPABILITY</b> · tools/ + registry.py<br/><br/>11 plain Python functions,<br/>each with a JSON schema the model reads"]
+
+    I["<b>INSIDE</b> · your CSVs<br/><br/>coverage · attractions<br/>hotels · itineraries"]
+
+    X["<b>OUTSIDE</b> · live APIs<br/><br/>weather · places<br/>currency · email"]
+
+    K["<b>KNOWLEDGE</b> · data_layer/<br/><br/>discovery → which file is which dataset?<br/>schema → which column is which field?<br/>retrieval → hard filter, then IDF rank"]
+
+    U --> P
+    P -->|neutral message list| O
+    O -->|which model?| M
+    O -->|which tool?| C
+    M -.->|Reply| O
+    C --> I
+    C --> X
+    I -->|which rows?| K
+
+    classDef ui       fill:#123039,stroke:#38B0C4,stroke-width:2px,color:#E7EEF0
+    classDef core     fill:#1B2E24,stroke:#6FCF97,stroke-width:2px,color:#E7EEF0
+    classDef model    fill:#2B2340,stroke:#A78BFA,stroke-width:2px,color:#E7EEF0
+    classDef tool     fill:#3A2E1C,stroke:#E0A662,stroke-width:2px,color:#E7EEF0
+    classDef data     fill:#172227,stroke:#93A6AC,stroke-width:2px,color:#E7EEF0
+    classDef user     fill:#0E1518,stroke:#38B0C4,stroke-width:2px,color:#E7EEF0
+
+    class U user
+    class P ui
+    class O core
+    class M model
+    class C,I,X tool
+    class K data
 ```
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f501/512.webp" alt="🔁" width="25" height="25" align="absmiddle"> One question, start to finish
+**In one sentence per layer:**
+
+| Layer | Job | Knows about |
+|:--|:--|:--|
+| **Presentation** | Draw things | Nothing. Pure rendering |
+| **Orchestration** | Decide, dispatch, repeat | Neither models nor data — only messages and tool schemas |
+| **Model access** | Turn any vendor into one `Reply` | Two wire formats, hundreds of models |
+| **Capability** | Actually do the work | Your CSVs and four live APIs |
+| **Knowledge** | Find the right rows | Filenames, columns, and how to rank text |
+
+The point of the separation: **the loop never learns which model it's talking to, and the model never learns where the data lives.** Swap either one and nothing else changes — which is why adding a whole new vendor mid-project cost one dictionary entry.
+
+### 🔁 One question, start to finish
 
 Here's what happens between you pressing Enter and the plan appearing. This is a real trace, not a diagram of one.
 
@@ -465,7 +479,7 @@ Here's what happens between you pressing Enter and the plan appearing. This is a
 
 Five model round-trips. Four tools. Zero invented hotels.
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.webp" alt="🚧" width="25" height="25" align="absmiddle"> The three rules that make a loop into an agent
+### 🚧 The three rules that make a loop into an agent
 
 Writing the loop is easy. Making it survive contact with reality is where the work is.
 
@@ -475,7 +489,7 @@ Writing the loop is easy. Making it survive contact with reality is where the wo
 
 **The step budget is a wall, not a suggestion.** Six iterations, then it stops and says so. An agent that *can* loop forever eventually will, usually while you're presenting it.
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50d/512.webp" alt="🔍" width="25" height="25" align="absmiddle"> Retrieval, and why there's no vector database
+### 🔍 Retrieval, and why there's no vector database
 
 The original spec called for ChromaDB and embeddings. Then somebody asked *why*, and there wasn't a good answer.
 
@@ -495,7 +509,7 @@ That's the entire ranking function. Fifteen lines. No embedding call per query, 
 
 > 🎓 **How to defend it in a viva:** *"Vector search is for unknown schemas. I know mine, so I filter on it and fall back to lexical matching only for free-text columns. Cheaper, deterministic, and there's no embedding cost per query."*
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50c/512.webp" alt="🔌" width="25" height="25" align="absmiddle"> Two wire formats, every model on Earth
+### 🔌 Two wire formats, every model on Earth
 
 Hundreds of models, four vendors, and only **two** ways of speaking:
 
@@ -525,9 +539,9 @@ Neither is in a tutorial. Both are in the code now, with comments explaining why
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9f0/512.webp" alt="🧰" width="30" height="30" align="absmiddle"> The eleven tools
+## 🧰 The eleven tools
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5c4_fe0f/512.webp" alt="🗄️" width="25" height="25" align="absmiddle"> Inside — your data
+### 🗄️ Inside — your data
 
 | Tool | What it does |
 |:--|:--|
@@ -536,7 +550,7 @@ Neither is in a tutorial. Both are in the code now, with comments explaining why
 | `search_hotels` | Real listings by city and price tier — where the tiers are **computed from actual price quantiles**, not conjured. |
 | `get_reference_itinerary` | Existing day-wise plans, used as a skeleton to adapt rather than inventing from a blank page. |
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.webp" alt="🌍" width="25" height="25" align="absmiddle"> Outside — live, free, keyless
+### 🌍 Outside — live, free, keyless
 
 | Tool | Source |
 |:--|:--|
@@ -544,7 +558,7 @@ Neither is in a tutorial. Both are in the code now, with comments explaining why
 | `search_places` | OpenStreetMap Nominatim, with the required User-Agent and a self-enforced 1 request/second limit. Volunteers run that service — please leave the rate limiter alone. |
 | `convert_currency` | Frankfurter. INR base, live rates. |
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ee/512.webp" alt="🧮" width="25" height="25" align="absmiddle"> Compute and deliver
+### 🧮 Compute and deliver
 
 | Tool | Notes |
 |:--|:--|
@@ -557,7 +571,7 @@ Every network tool has a timeout, a `try/except`, and a graceful failure string.
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a8/512.webp" alt="🎨" width="30" height="30" align="absmiddle"> What you get in the browser
+## 🎨 What you get in the browser
 
 **💬 Chat Planner** — the conversation, with an **Agent Trace** expander underneath every reply showing each tool call, its arguments, and its raw result. This is the panel that proves the thing is real. Open it in a demo *before* anyone asks.
 
@@ -571,7 +585,7 @@ Every network tool has a timeout, a `try/except`, and a graceful failure string.
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c1/512.webp" alt="📁" width="30" height="30" align="absmiddle"> Repository structure
+## 📁 Repository structure
 
 ```
 travel-planner-agent/
@@ -579,6 +593,8 @@ travel-planner-agent/
 ├── 📱 app.py                      Streamlit entrypoint — tabs, chat, export
 ├── ⚙️ config.py                   Backends, keys, constants, model quirks
 ├── 🧪 smoke_test.py               Test data + tools + models, no UI needed
+├── ⚠️ GOTCHAS.md                  Why odd-looking code is the way it is
+├── 🧰 scripts/vendor_assets.py    Pull README images local (fixes broken images)
 ├── 📋 requirements.txt            Five lines. That's the flex.
 │
 ├── 🔌 providers/                  "Talk to any model"
@@ -628,7 +644,7 @@ travel-planner-agent/
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa7a/512.webp" alt="🩺" width="30" height="30" align="absmiddle"> When it goes sideways
+## 🩺 When it goes sideways
 
 | What you see | What's really going on |
 |:--|:--|
@@ -644,7 +660,7 @@ travel-planner-agent/
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" alt="🚀" width="30" height="30" align="absmiddle"> Where this goes next
+## 🚀 Where this goes next
 
 What follows isn't a wishlist. Each phase is grounded in something the 2026 industry is
 actually asking for — and ordered so that each one is worth shipping on its own, even if
@@ -657,7 +673,7 @@ The theme running through all of it: **2026 is the year travel AI moved from nov
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9f1/512.webp" alt="🧱" width="25" height="25" align="absmiddle"> Phase 1 — Make the Streamlit build genuinely solid
+### 🧱 Phase 1 — Make the Streamlit build genuinely solid
 
 **Not open source yet. Not a rewrite. Just properly finished.**
 
@@ -675,7 +691,7 @@ There's a temptation to jump straight to the exciting rewrite. Resisting it is t
 without asking you a single question. That's also the bar for going public.
 
 ---
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" alt="🌱" width="25" height="25" align="absmiddle"> Phase 2 — Open it up
+### 🌱 Phase 2 — Open it up
 
 **Now that there's something worth cloning.**
 
@@ -698,7 +714,7 @@ spent building, not debugging your setup instructions.
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52c/512.webp" alt="🔬" width="25" height="25" align="absmiddle"> Phase 3 — Prove it's trustworthy
+### 🔬 Phase 3 — Prove it's trustworthy
 
 **The uncomfortable question: how do you actually know it's any good?**
 
@@ -716,7 +732,7 @@ Industry surveys through 2026 put privacy, data handling, and pricing fairness a
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a8/512.webp" alt="🎨" width="25" height="25" align="absmiddle"> Phase 4 — A real frontend, and an API under it
+### 🎨 Phase 4 — A real frontend, and an API under it
 
 Streamlit got this built fast and earned every bit of its place. But it's a prototyping tool in a product costume, and the ceiling is real: no streaming, no routing, limited layout control, and a rerun model that fights anything stateful.
 
@@ -732,7 +748,7 @@ Streamlit got this built fast and earned every bit of its place. But it's a prot
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" alt="🤖" width="25" height="25" align="absmiddle"> Phase 5 — Multi-agent orchestration
+### 🤖 Phase 5 — Multi-agent orchestration
 
 One agent doing everything is the simplest thing that works. It isn't the best thing.
 
@@ -747,7 +763,7 @@ One agent doing everything is the simplest thing that works. It isn't the best t
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.webp" alt="🧠" width="25" height="25" align="absmiddle"> Phase 6 — Actual machine learning
+### 🧠 Phase 6 — Actual machine learning
 
 This is where it stops being an LLM wrapper and starts being a data science project. The industry framing here is *preference anticipation* — systems that know what you want before you finish describing it.
 
@@ -763,7 +779,7 @@ This is where it stops being an LLM wrapper and starts being a data science proj
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.webp" alt="📊" width="25" height="25" align="absmiddle"> Phase 7 — A data foundation worth the name
+### 📊 Phase 7 — A data foundation worth the name
 
 Five CSVs are training wheels. IDC's diagnosis is unambiguous: without a unified, real-time view, agentic AI can't deliver, and fragmented data produces generic offers.
 
@@ -779,7 +795,7 @@ Five CSVs are training wheels. IDC's diagnosis is unambiguous: without a unified
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.webp" alt="🌏" width="25" height="25" align="absmiddle"> Phase 8 — Global, spoken, and accessible to everyone
+### 🌏 Phase 8 — Global, spoken, and accessible to everyone
 
 Travel is the most global thing there is, and this app currently speaks one language and covers one country. That's the biggest gap in the whole project.
 
@@ -795,7 +811,7 @@ Travel is the most global thing there is, and this app currently speaks one lang
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f517/512.webp" alt="🔗" width="25" height="25" align="absmiddle"> Phase 9 — Join the agentic web
+### 🔗 Phase 9 — Join the agentic web
 
 The most important structural shift of 2026 wasn't a new model. It was standardisation. MCP was donated to the Linux Foundation's Agentic AI Foundation in December 2025 with OpenAI, Google, Microsoft and AWS backing it — competing companies agreeing on one protocol, with SDK downloads well past a hundred million a month.
 
@@ -811,7 +827,7 @@ The eleven tools here are already the right shape for it. That's not a coinciden
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" alt="🎯" width="30" height="30" align="absmiddle"> One last thought
+## 🎯 One last thought
 
 The most valuable thing here isn't the itinerary generator.
 
@@ -825,13 +841,17 @@ That's the actual lesson. Not *how do I call an LLM*, but *how do I build someth
 
 <br>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9f1/512.webp" alt="🧱" width="22" height="22" align="absmiddle"> **Built with stubbornness, five libraries, and an unreasonable number of 404s.**
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="" width="44" height="44">
+
+**Built with stubbornness, five libraries, and an unreasonable number of 404s.**
+
+*by Soumik Dey · Vinit Saw · Sraoshree Yadav · Sayan Sikder · Swapnil Basu*
 
 *If it isn't in the data, it doesn't go in the plan.*
 
 <br>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2b50/512.webp" alt="⭐" width="22" height="22" align="absmiddle"> *Star it if it's useful. Fork it if you can do better.*
+⭐ *Star it if it's useful. Fork it if you can do better.*
 *Open an issue if it lies to you — it really isn't supposed to.*
 
 </div>
@@ -845,7 +865,7 @@ Attraction and hotel data from Kaggle · Weather by [Open-Meteo](https://open-me
 <br>
 Every live API here is free and needs no key. Please respect Nominatim's rate limits — volunteers run it.
 <br>
-Animated emoji from [Google Noto Animated Emoji](https://googlefonts.github.io/noto-emoji-animation/) · Brand marks from [Simple Icons](https://simpleicons.org)
+This README uses no remote images — every icon is a Unicode character, so it renders identically everywhere, offline, and behind any filter.
 
 </sub>
 </div>
