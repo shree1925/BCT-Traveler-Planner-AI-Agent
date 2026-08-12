@@ -1,0 +1,138 @@
+trip_id,destination,start_date,end_date,duration_days,traveler_name,traveler_age,traveler_gender,traveler_nationality,accommodation_type,accommodation_cost,accommodation_cost,transportation_type,transportation_cost,transportation_cost,total_cost,cost_per_day
+1,London,2023-05-01,2023-05-08,7.0,John Smith,35.0,Male,American,Hotel,1200,1200.0,Flight,600,600.0,1800.0,257.14285714285717
+2,Phuket,2023-06-15,2023-06-20,5.0,Jane Doe,28.0,Female,Canadian,Resort,800,800.0,Flight,500,500.0,1300.0,260.0
+3,Bali,2023-07-01,2023-07-08,7.0,David Lee,45.0,Male,Korean,Villa,1000,1000.0,Flight,700,700.0,1700.0,242.85714285714286
+4,New York,2023-08-15,2023-08-29,14.0,Sarah Johnson,29.0,Female,British,Hotel,2000,2000.0,Flight,1000,1000.0,3000.0,214.28571428571428
+5,Tokyo,2023-09-10,2023-09-17,7.0,Kim Nguyen,26.0,Female,Vietnamese,Airbnb,700,700.0,Train,200,200.0,900.0,128.57142857142858
+6,Paris,2023-10-05,2023-10-10,5.0,Michael Brown,42.0,Male,American,Hotel,1500,1500.0,Flight,800,800.0,2300.0,460.0
+7,Sydney,2023-11-20,2023-11-30,10.0,Emily Davis,33.0,Female,Australian,Hostel,500,500.0,Flight,1200,1200.0,1700.0,170.0
+8,Rio de Janeiro,2024-01-05,2024-01-12,7.0,Lucas Santos,25.0,Male,Brazilian,Airbnb,900,900.0,Flight,600,600.0,1500.0,214.28571428571428
+9,Amsterdam,2024-02-14,2024-02-21,7.0,Laura Janssen,31.0,Female,Dutch,Hotel,1200,1200.0,Train,200,200.0,1400.0,200.0
+10,Dubai,2024-03-10,2024-03-17,7.0,Mohammed Ali,39.0,Male,Emirati,Resort,2500,2500.0,Flight,800,800.0,3300.0,471.42857142857144
+11,Cancun,2024-04-01,2024-04-08,7.0,Ana Hernandez,27.0,Female,Mexican,Hotel,1000,1000.0,Flight,500,500.0,1500.0,214.28571428571428
+12,Barcelona,2024-05-15,2024-05-22,7.0,Carlos Garcia,36.0,Male,Spanish,Airbnb,800,800.0,Train,100,100.0,900.0,128.57142857142858
+13,Honolulu,2024-06-10,2024-06-18,8.0,Lily Wong,29.0,Female,Chinese,Resort,3000,3000.0,Flight,1200,1200.0,4200.0,525.0
+14,Berlin,2024-07-01,2024-07-10,9.0,Hans Mueller,48.0,Male,German,Hotel,1400,1400.0,Flight,700,700.0,2100.0,233.33333333333334
+15,Marrakech,2024-08-20,2024-08-27,7.0,Fatima Khouri,26.0,Female,Moroccan,Riad,600,600.0,Flight,400,400.0,1000.0,142.85714285714286
+16,Edinburgh,2024-09-05,2024-09-12,7.0,James MacKenzie,32.0,Male,Scottish,Hotel,900,900.0,Train,150,150.0,1050.0,150.0
+17,Paris,2023-09-01,2023-09-10,9.0,Sarah Johnson,30.0,Female,American,Hotel,$900 ,900.0,Flight,$400 ,400.0,1300.0,144.44444444444446
+18,Bali,2023-08-15,2023-08-25,10.0,Michael Chang,28.0,Male,Chinese,Resort,"$1,500 ",1500.0,Flight,$700 ,700.0,2200.0,220.0
+19,London,2023-07-22,2023-07-28,6.0,Olivia Rodriguez,35.0,Female,British,Hotel,"$1,200 ",1200.0,Train,$150 ,150.0,1350.0,225.0
+20,Tokyo,2023-10-05,2023-10-15,10.0,Kenji Nakamura,45.0,Male,Japanese,Hotel,"$1,200 ",1200.0,Flight,$800 ,800.0,2000.0,200.0
+21,New York,2023-11-20,2023-11-25,5.0,Emily Lee,27.0,Female,American,Airbnb,$600 ,600.0,Bus,$100 ,100.0,700.0,140.0
+22,Sydney,2023-12-05,2023-12-12,7.0,James Wilson,32.0,Male,Australian,Hotel,"$1,000 ",1000.0,Flight,$600 ,600.0,1600.0,228.57142857142858
+23,Rome,2023-11-01,2023-11-08,7.0,Sofia Russo,29.0,Female,Italian,Airbnb,$700 ,700.0,Train,$80 ,80.0,780.0,111.42857142857143
+24,Bangkok,2023-09-15,2023-09-23,8.0,Raj Patel,40.0,Male,Indian,Hostel,$400 ,400.0,Flight,$500 ,500.0,900.0,112.5
+25,Paris,2023-12-22,2023-12-28,6.0,Lily Nguyen,24.0,Female,Vietnamese,Hotel,"$1,400 ",1400.0,Train,$100 ,100.0,1500.0,250.0
+26,Hawaii,2023-08-01,2023-08-10,9.0,David Kim,34.0,Male,Korean,Resort,"$2,000 ",2000.0,Flight,$800 ,800.0,2800.0,311.1111111111111
+27,Barcelona,2023-10-20,2023-10-28,8.0,Maria Garcia,31.0,Female,Spanish,Hotel,"$1,100 ",1100.0,Train,$150 ,150.0,1250.0,156.25
+28,Japan,2022-05-10,2022-05-18,8.0,Alice Smith,30.0,Female,American,Hotel,$800 ,800.0,Flight,$500 ,500.0,1300.0,162.5
+29,Thailand,2022-06-15,2022-06-22,7.0,Bob Johnson,45.0,Male,Canadian,Hostel,$200 ,200.0,Train,$150 ,150.0,350.0,50.0
+30,France,2022-07-02,2022-07-11,9.0,Charlie Lee,25.0,Male,Korean,Airbnb,$600 ,600.0,Car Rental,$300 ,300.0,900.0,100.0
+31,Australia,2022-08-20,2022-09-02,13.0,Emma Davis,28.0,Female,British,Hotel,"$1,000 ",1000.0,Car Rental,$500 ,500.0,1500.0,115.38461538461539
+32,Brazil,2022-09-05,2022-09-14,9.0,Olivia Martin,33.0,Female,Australian,Hostel,$150 ,150.0,Bus,$50 ,50.0,200.0,22.22222222222222
+33,Greece,2022-10-12,2022-10-20,8.0,Harry Wilson,20.0,Male,American,Airbnb,$400 ,400.0,Flight,$600 ,600.0,1000.0,125.0
+34,Egypt,2022-11-08,2022-11-15,7.0,Sophia Lee,37.0,Female,Canadian,Hotel,$700 ,700.0,Train,$100 ,100.0,800.0,114.28571428571429
+35,Mexico,2023-01-05,2023-01-15,10.0,James Brown,42.0,Male,British,Airbnb,$500 ,500.0,Flight,$800 ,800.0,1300.0,130.0
+36,Italy,2023-02-14,2023-02-20,6.0,Mia Johnson,31.0,Female,American,Hostel,$180 ,180.0,Train,$120 ,120.0,300.0,50.0
+37,Spain,2023-03-23,2023-03-31,8.0,William Davis,27.0,Male,Korean,Hotel,$900 ,900.0,Car Rental,$400 ,400.0,1300.0,162.5
+38,Canada,2023-04-19,2023-04-26,7.0,Amelia Brown,38.0,Female,Australian,Airbnb,$350 ,350.0,Bus,$75 ,75.0,425.0,60.714285714285715
+39,Paris,2022-06-12,2022-06-19,7.0,Mia Johnson,25.0,Female,American,Hotel,1400,1400.0,Flight,600,600.0,2000.0,285.7142857142857
+40,Sydney,2023-01-02,2023-01-09,7.0,Adam Lee,33.0,Male,Canadian,Airbnb,800,800.0,Train,150,150.0,950.0,135.71428571428572
+41,Tokyo,2022-12-10,2022-12-18,8.0,Sarah Wong,28.0,Female,Chinese,Hostel,500,500.0,Flight,900,900.0,1400.0,175.0
+42,Cancun,2023-07-01,2023-07-08,7.0,John Smith,45.0,Male,American,Resort,2200,2200.0,Flight,800,800.0,3000.0,428.57142857142856
+43,Rio de Janeiro,2022-11-20,2022-11-27,7.0,Maria Silva,30.0,Female,Brazilian,Hotel,1200,1200.0,Flight,700,700.0,1900.0,271.42857142857144
+44,London,2023-03-05,2023-03-12,7.0,Peter Brown,55.0,Male,British,Airbnb,900,900.0,Train,100,100.0,1000.0,142.85714285714286
+45,Barcelona,2023-08-18,2023-08-25,7.0,Emma Garcia,27.0,Female,Spanish,Hostel,600,600.0,Flight,600,600.0,1200.0,171.42857142857142
+46,New York City,2022-09-15,2022-09-22,7.0,Michael Davis,41.0,Male,American,Hotel,1500,1500.0,Flight,500,500.0,2000.0,285.7142857142857
+47,Bangkok,2023-05-01,2023-05-07,6.0,Nina Patel,29.0,Female,Indian,Airbnb,500,500.0,Bus,50,50.0,550.0,91.66666666666667
+48,Vancouver,2022-07-10,2022-07-17,7.0,Kevin Kim,24.0,Male,Korean,Hostel,400,400.0,Train,150,150.0,550.0,78.57142857142857
+49,Amsterdam,2023-06-20,2023-06-28,8.0,Laura van den Berg,31.0,Female,Dutch,Hotel,1100,1100.0,Flight,700,700.0,1800.0,225.0
+50,Paris,2023-08-15,2023-08-22,7.0,Jennifer Nguyen,31.0,Female,Canadian,Hotel,"$1,200 ",1200.0,Train,$300 ,300.0,1500.0,214.28571428571428
+51,Tokyo,2023-10-10,2023-10-20,10.0,David Kim,25.0,Male,American,Hostel,$500 ,500.0,Bus,$100 ,100.0,600.0,60.0
+52,Sydney,2023-11-05,2023-11-12,7.0,Rachel Lee,27.0,Female,South Korean,Airbnb,$900 ,900.0,Car Rental,$200 ,200.0,1100.0,157.14285714285714
+53,New York,2023-12-24,2023-12-31,7.0,Jessica Wong,28.0,Female,Canadian,Hotel,"$1,400 ",1400.0,Flight,$800 ,800.0,2200.0,314.2857142857143
+54,Rio de Janeiro,2024-01-15,2024-01-24,9.0,Felipe Almeida,30.0,Male,Brazilian,Airbnb,$800 ,800.0,Train,$150 ,150.0,950.0,105.55555555555556
+55,Bangkok,2024-02-01,2024-02-09,8.0,Nisa Patel,23.0,Female,Indian,Hostel,$400 ,400.0,Bus,$50 ,50.0,450.0,56.25
+56,London,2024-03-15,2024-03-23,8.0,Ben Smith,35.0,Male,British,Hotel,"$1,000 ",1000.0,Train,$200 ,200.0,1200.0,150.0
+57,Barcelona,2024-04-05,2024-04-13,8.0,Laura Gomez,29.0,Female,Spanish,Airbnb,$700 ,700.0,Car Rental,$250 ,250.0,950.0,118.75
+58,Seoul,2024-05-10,2024-05-18,8.0,Park Min Woo,27.0,Male,South Korean,Hostel,$500 ,500.0,Subway,$20 ,20.0,520.0,65.0
+59,Los Angeles,2024-06-20,2024-06-27,7.0,Michael Chen,26.0,Male,Chinese,Hotel,"$1,200 ",1200.0,Car Rental,$300 ,300.0,1500.0,214.28571428571428
+60,Rome,2024-07-15,2024-07-23,8.0,Sofia Rossi,33.0,Female,Italian,Airbnb,$800 ,800.0,Train,$100 ,100.0,900.0,112.5
+61,Paris,2022-07-12,2022-07-18,6.0,Rachel Sanders,35.0,Female,American,Hotel,1200,1200.0,Flight,800,800.0,2000.0,333.3333333333333
+62,Tokyo,2022-09-03,2022-09-10,7.0,Kenji Nakamura,28.0,Male,Japanese,Hostel,400,400.0,Train,300,300.0,700.0,100.0
+63,Cape Town,2023-01-07,2023-01-16,9.0,Emily Watson,29.0,Female,British,Vacation Rental,800,800.0,Car Rental,200,200.0,1000.0,111.11111111111111
+64,Sydney,2023-06-23,2023-06-29,6.0,David Lee,43.0,Male,Australian,Hotel,1500,1500.0,Flight,1200,1200.0,2700.0,450.0
+65,Barcelona,2023-08-18,2023-08-25,7.0,Ana Rodriguez,31.0,Female,Spanish,Vacation Rental,900,900.0,Flight,700,700.0,1600.0,228.57142857142858
+66,Bali,2024-02-01,2024-02-08,7.0,Tom Wilson,27.0,Male,American,Resort,2200,2200.0,Flight,1000,1000.0,3200.0,457.14285714285717
+67,Paris,2024-05-06,2024-05-12,6.0,Olivia Green,39.0,Female,French,Hotel,1100,1100.0,Train,200,200.0,1300.0,216.66666666666666
+68,New York,2024-07-20,2024-07-26,6.0,James Chen,25.0,Male,American,Vacation Rental,1000,1000.0,Flight,800,800.0,1800.0,300.0
+69,Bangkok,2024-09-08,2024-09-16,8.0,Lila Patel,33.0,Female,Indian,Hostel,300,300.0,Flight,700,700.0,1000.0,125.0
+70,Rome,2025-02-14,2025-02-20,6.0,Marco Rossi,41.0,Male,Italian,Hotel,1300,1300.0,Train,100,100.0,1400.0,233.33333333333334
+71,Bali,2025-05-21,2025-05-29,8.0,Sarah Brown,37.0,Female,British,Resort,1800,1800.0,Flight,1000,1000.0,2800.0,350.0
+73,Bali,2022-08-05,2022-08-12,7.0,Sarah Lee,35.0,Female,South Korean,Resort,500 USD,500.0,Flight,800 USD,800.0,1300.0,185.71428571428572
+74,Tokyo,2023-01-01,2023-01-09,8.0,Alex Kim,29.0,Male,American,Hotel,1000 USD,1000.0,Train,200 USD,200.0,1200.0,150.0
+75,Cancun,2023-04-15,2023-04-22,7.0,Maria Hernandez,42.0,Female,Mexican,Resort,800 USD,800.0,Flight,500 USD,500.0,1300.0,185.71428571428572
+76,Paris,2023-06-07,2023-06-14,7.0,John Smith,46.0,Male,British,Hotel,1200 USD,1200.0,Flight,700 USD,700.0,1900.0,271.42857142857144
+77,Cape Town,2023-09-01,2023-09-10,9.0,Mark Johnson,31.0,Male,South African,Guesthouse,400 USD,400.0,Car Rental,300 USD,300.0,700.0,77.77777777777777
+78,Bali,2023-11-12,2023-11-19,7.0,Amanda Chen,25.0,Female,Taiwanese,Resort,600 USD,600.0,Flight,700 USD,700.0,1300.0,185.71428571428572
+79,Sydney,2024-02-05,2024-02-12,7.0,David Lee,38.0,Male,Australian,Hotel,900 USD,900.0,Flight,600 USD,600.0,1500.0,214.28571428571428
+80,Bangkok,2024-05-15,2024-05-22,7.0,Nana Kwon,27.0,Female,Korean,Hotel,400 USD,400.0,Flight,400 USD,400.0,800.0,114.28571428571429
+81,New York,2024-08-20,2024-08-27,7.0,Tom Hanks,60.0,Male,American,Hotel,1500 USD,1500.0,Flight,1000 USD,1000.0,2500.0,357.14285714285717
+82,Phuket,2025-01-01,2025-01-08,7.0,Emma Watson,32.0,Female,British,Resort,700 USD,700.0,Flight,800 USD,800.0,1500.0,214.28571428571428
+83,Rome,2025-04-15,2025-04-22,7.0,James Kim,41.0,Male,American,Hotel,100,100.0,,,,,
+84,Paris,2021-06-15,2021-06-20,6.0,John Smith,35.0,Male,American,Hotel,800 USD,800.0,Flight,500 USD,500.0,1300.0,216.66666666666666
+85,Tokyo,2021-07-01,2021-07-10,10.0,Sarah Lee,28.0,Female,Korean,Airbnb,500 USD,500.0,Train,300 USD,300.0,800.0,80.0
+86,Bali,2021-08-10,2021-08-20,11.0,Maria Garcia,42.0,Female,Spanish,Resort,1200 USD,1200.0,Flight,700 USD,700.0,1900.0,172.72727272727272
+87,Sydney,2021-09-01,2021-09-10,9.0,David Lee,45.0,Male,Australian,Hotel,900 USD,900.0,Flight,600 USD,600.0,1500.0,166.66666666666666
+88,New York,2021-10-15,2021-10-20,6.0,Emily Davis,31.0,Female,American,Airbnb,700 USD,700.0,Car Rental,200 USD,200.0,900.0,150.0
+89,London,2021-11-20,2021-11-30,11.0,James Wilson,29.0,Male,British,Hostel,300 USD,300.0,Flight,400 USD,400.0,700.0,63.63636363636363
+90,Dubai,2022-01-01,2022-01-08,8.0,Fatima Ahmed,24.0,Female,Emirati,Hotel,1000 USD,1000.0,Flight,800 USD,800.0,1800.0,225.0
+91,Bangkok,2022-02-14,2022-02-20,7.0,Liam Nguyen,26.0,Male,Vietnamese,Airbnb,400 USD,400.0,Train,100 USD,100.0,500.0,71.42857142857143
+92,Rome,2022-03-10,2022-03-20,11.0,Giulia Rossi,30.0,Female,Italian,Hostel,200 USD,200.0,Flight,350 USD,350.0,550.0,50.0
+93,Bali,2022-04-15,2022-04-25,11.0,Putra Wijaya,33.0,Male,Indonesian,Villa,1500 USD,1500.0,Car Rental,300 USD,300.0,1800.0,163.63636363636363
+94,Seoul,2022-05-01,2022-05-10,10.0,Kim Min-ji,27.0,Female,Korean,Hotel,800 USD,800.0,Train,150 USD,150.0,950.0,95.0
+95,Paris,2022-06-15,2022-06-20,5.0,John Smith,35.0,Male,USA,Hotel,$500 ,500.0,Flight,$800 ,800.0,1300.0,260.0
+96,Tokyo,2022-09-01,2022-09-10,9.0,Emily Johnson,28.0,Female,Canada,Airbnb,$400 ,400.0,Train,$200 ,200.0,600.0,66.66666666666667
+97,Sydney,2022-11-23,2022-12-02,9.0,David Lee,45.0,Male,South Korea,Hostel,$200 ,200.0,Flight,"$1,200 ",1200.0,1400.0,155.55555555555554
+98,London,2023-02-14,2023-02-19,5.0,Sarah Brown,37.0,Female,UK,Hotel,$600 ,600.0,Flight,$700 ,700.0,1300.0,260.0
+99,New York,2023-05-08,2023-05-14,6.0,Michael Wong,50.0,Male,China,Airbnb,$800 ,800.0,Car Rental,$300 ,300.0,1100.0,183.33333333333334
+100,Rome,2023-08-20,2023-08-27,7.0,Jessica Chen,31.0,Female,Taiwan,Hotel,$700 ,700.0,Flight,$900 ,900.0,1600.0,228.57142857142858
+101,Bangkok,2023-11-12,2023-11-20,8.0,Ken Tanaka,42.0,Male,Japan,Hostel,$300 ,300.0,Train,$100 ,100.0,400.0,50.0
+102,Cape Town,2024-01-06,2024-01-14,8.0,Maria Garcia,27.0,Female,Spain,Airbnb,$500 ,500.0,Flight,"$1,500 ",1500.0,2000.0,250.0
+103,Rio de Janeiro,2024-04-03,2024-04-10,7.0,Rodrigo Oliveira,33.0,Male,Brazil,Hotel,$900 ,900.0,Car Rental,$400 ,400.0,1300.0,185.71428571428572
+104,Bali,2024-07-22,2024-07-28,6.0,Olivia Kim,29.0,Female,South Korea,Villa,"$1,200 ",1200.0,Flight,"$1,000 ",1000.0,2200.0,366.6666666666667
+105,Amsterdam,2024-10-10,2024-10-17,7.0,Robert Mueller,41.0,Male,Germany,Hotel,$600 ,600.0,Train,$150 ,150.0,750.0,107.14285714285714
+106,Paris,2022-05-15,2022-05-20,5.0,John Smith,35.0,Male,USA,Hotel,1000,1000.0,Flight,800,800.0,1800.0,360.0
+107,Tokyo,2022-09-01,2022-09-10,9.0,Sarah Lee,28.0,Female,South Korea,Airbnb,800,800.0,Train,500,500.0,1300.0,144.44444444444446
+108,New York,2022-06-20,2022-06-25,5.0,Michael Wong,42.0,Male,Hong Kong,Hotel,1200,1200.0,Car Rental,200,200.0,1400.0,280.0
+109,Bali,2022-08-12,2022-08-20,8.0,Lisa Chen,30.0,Female,Taiwan,Resort,1500,1500.0,Flight,1200,1200.0,2700.0,337.5
+110,Sydney,2022-07-01,2022-07-10,9.0,David Kim,26.0,Male,Canada,Hostel,300,300.0,Flight,900,900.0,1200.0,133.33333333333334
+111,London,2022-06-10,2022-06-15,5.0,Emily Wong,38.0,Female,United Kingdom,Hotel,900,900.0,Train,150,150.0,1050.0,210.0
+112,Phuket,2022-09-05,2022-09-12,7.0,Mark Tan,45.0,Male,Singapore,Villa,2000,2000.0,Flight,700,700.0,2700.0,385.7142857142857
+113,Rome,2022-05-01,2022-05-08,7.0,Emma Lee,31.0,Female,Italy,Hotel,1100,1100.0,Train,250,250.0,1350.0,192.85714285714286
+114,Santorini,2022-07-15,2022-07-22,7.0,George Chen,27.0,Male,Greece,Airbnb,1000,1000.0,Ferry,150,150.0,1150.0,164.28571428571428
+115,Dubai,2022-08-25,2022-08-30,5.0,Sophia Kim,29.0,Female,United Arab Emirates,Hotel,1500,1500.0,Car Rental,300,300.0,1800.0,360.0
+116,Phnom Penh,2022-09-10,2022-09-15,5.0,Alex Ng,33.0,Male,Cambodia,Hostel,200,200.0,Flight,500,500.0,700.0,140.0
+117,Tokyo,2022-02-05,2022-02-14,9.0,Alice Smith,32.0,Female,American,Hotel,1000,1000.0,Flight,700,700.0,1700.0,188.88888888888889
+118,Paris,2022-03-15,2022-03-22,7.0,Bob Johnson,47.0,Male,Canadian,Hotel,1200,1200.0,Train,500,500.0,1700.0,242.85714285714286
+119,Sydney,2022-05-01,2022-05-12,11.0,Cindy Chen,26.0,Female,Chinese,Airbnb,800,800.0,Flight,1000,1000.0,1800.0,163.63636363636363
+120,Rome,2022-06-10,2022-06-17,7.0,David Lee,38.0,Male,Korean,Hotel,900,900.0,Train,400,400.0,1300.0,185.71428571428572
+121,Bali,2022-07-20,2022-07-30,10.0,Emily Kim,29.0,Female,Korean,Hostel,500,500.0,Flight,800,800.0,1300.0,130.0
+122,Cancun,2022-08-08,2022-08-16,8.0,Frank Li,41.0,Male,American,Hotel,1300,1300.0,Flight,600,600.0,1900.0,237.5
+123,Athens,2022-09-20,2022-09-30,10.0,Gina Lee,35.0,Female,Korean,Airbnb,700,700.0,Flight,900,900.0,1600.0,160.0
+124,Tokyo,2022-10-05,2022-10-13,8.0,Henry Kim,24.0,Male,Korean,Hotel,1200,1200.0,Flight,700,700.0,1900.0,237.5
+125,Sydney,2022-11-11,2022-11-21,10.0,Isabella Chen,30.0,Female,Chinese,Airbnb,900,900.0,Flight,1000,1000.0,1900.0,190.0
+126,Paris,2022-12-24,2023-01-01,8.0,Jack Smith,28.0,Male,American,Hostel,400,400.0,Flight,700,700.0,1100.0,137.5
+127,Bali,2023-02-10,2023-02-18,8.0,Katie Johnson,33.0,Female,Canadian,Hotel,800,800.0,Flight,800,800.0,1600.0,200.0
+129,Paris,2023-05-01,2023-05-07,6.0,John Doe,35.0,Male,American,Hotel,5000,5000.0,Flight,2500,2500.0,7500.0,1250.0
+130,Tokyo,2023-05-15,2023-05-22,7.0,Jane Smith,28.0,Female,British,Airbnb,7000,7000.0,Train,1500,1500.0,8500.0,1214.2857142857142
+131,Cape Town,2023-06-01,2023-06-10,9.0,Michael Johnson,45.0,Male,South African,Hostel,3000,3000.0,Car Rental,2000,2000.0,5000.0,555.5555555555555
+132,Sydney,2023-06-15,2023-06-21,6.0,Sarah Lee,31.0,Female,Australian,Hotel,6000,6000.0,Flight,3000,3000.0,9000.0,1500.0
+133,Rome,2023-07-01,2023-07-08,7.0,David Kim,42.0,Male,Korean,Airbnb,4000,4000.0,Train,1500,1500.0,5500.0,785.7142857142857
+134,New York City,2023-07-15,2023-07-22,7.0,Emily Davis,27.0,Female,American,Hotel,8000,8000.0,Flight,2500,2500.0,10500.0,1500.0
+135,Rio de Janeiro,2023-08-01,2023-08-10,9.0,Jose Perez,37.0,Male,Brazilian,Hostel,2500,2500.0,Car Rental,2000,2000.0,4500.0,500.0
+136,Vancouver,2023-08-15,2023-08-21,6.0,Emma Wilson,29.0,Female,Canadian,Hotel,5000,5000.0,Flight,3000,3000.0,8000.0,1333.3333333333333
+137,Bangkok,2023-09-01,2023-09-08,7.0,Ryan Chen,34.0,Male,Chinese,Hostel,2000,2000.0,Train,1000,1000.0,3000.0,428.57142857142856
+138,Barcelona,2023-09-15,2023-09-22,7.0,Sofia Rodriguez,25.0,Female,Spanish,Airbnb,6000,6000.0,Flight,2500,2500.0,8500.0,1214.2857142857142
+139,Auckland,2023-10-01,2023-10-08,7.0,William Brown,39.0,Male,New Zealander,Hotel,7000,7000.0,Train,2500,2500.0,9500.0,1357.142857142857
